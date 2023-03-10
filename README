@@ -1,0 +1,4 @@
+In this project, I will:
+  * Train 3 different types of models to make classification predictions on the bank marketing dataset 
+  * Calculate the accuracy, F1 score, precision, recall as comparison between 3 models on the same train/test splits 
+  * Plot the ROC curve to confirm the best model.
